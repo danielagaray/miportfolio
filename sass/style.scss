@@ -371,6 +371,14 @@ footer{
 
 
 			}
-	}		
+	}	
+	.mapa{
+		position: relative;
+		iframe{
+			position:absolute;
+			width: 100%;
+		}
+	}
 }
+
 

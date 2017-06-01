@@ -465,5 +465,10 @@ footer {
         footer article p {
           font-size: 10px;
           padding: 5px 0px; } }
+  footer .mapa {
+    position: relative; }
+    footer .mapa iframe {
+      position: absolute;
+      width: 100%; }
 
 /*# sourceMappingURL=style.css.map */
